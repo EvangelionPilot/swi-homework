@@ -3,7 +3,7 @@ layout: default
 title: atom markdown编辑辅助工具的体验
 ---
 
-# 使用atom编辑markdown
+# 一位新手使用atom编辑markdown的经历
 
 首先个人感觉这个软件对新手挺友好（证据就是我自己用的很顺）
 
